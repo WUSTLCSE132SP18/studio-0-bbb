@@ -6,8 +6,12 @@
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("Hello, world!");
+  
 }
 
 void loop() {
+  Serial.println(10000001 &&  000000101);
+  
+  delay(100);
+ 
 }
